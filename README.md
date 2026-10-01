@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kalpesh Pardeshi</h1> <h3 align="center"> 🚀 Frontend Developer | 💻 Developer | 🇮🇳 India </h3> <p align="center"> <a href="https://github.com/pardeshikalpesh89-sys"> <img src="https://komarev.com/ghpvc/?username=pardeshikalpesh89-sys&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> </a> <a href="https://github.com/pardeshikalpesh89-sys?tab=followers"> <img src="https://img.shields.io/github/followers/pardeshikalpesh89-sys?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" /> </a> </p>
 🛠️ Languages & Tools
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C"/> <img 
 📊 GitHub Statistics
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pardeshikalpesh89-sys&theme=tokyonight" alt="GitHub Profile Statistics" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pardeshikalpesh89-sys&theme=tokyonight" width="48%" alt="Repositories Per Language" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pardeshikalpesh89-sys&theme=tokyonight" width="48%" alt="Most Used Languages" />
-
-</p>
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pardeshikalpesh89-sys&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="180" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardeshikalpesh89-sys&layout=compact&hide_border=true&theme=tokyonight" height="180" alt="Top Languages" />
 
 </p>
 🔥 Contribution Streak
