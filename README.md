@@ -1,87 +1,72 @@
-<h1 align="center">Hi 👋, I'm Kalpesh Pardeshi</h1>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="./header-light.svg#gh-light-mode-only">
+    <img src="./header-light.svg" width="854" alt="Kalpesh Pardeshi" />
+  </picture>
+</div>
 
-<p align="center">
-  <a href="https://github.com/pardeshikalpesh89-sys">
-    <img src="https://komarev.com/ghpvc/?username=pardeshikalpesh89-sys&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/pardeshikalpesh89-sys?tab=followers">
-    <img src="https://img.shields.io/github/followers/pardeshikalpesh89-sys?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Crafting+Intuitive+User+Experiences;Learning+JAVA+%26+DSA;"
+    alt="Typing Animation" />
 
----
+  <br />
 
-## 🛠️ Languages & Tools
+  <a href="https://www.linkedin.com/in/kalpesh-pardeshi-4912b33a5/" target="_blank"><img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"></a>
+  <a href="https://www.codechef.com/users/such_bass_08" target="_blank"><img
+      src="https://img.shields.io/badge/Codechef-1DA1F2?style=for-the-badge&logo=Codechef&logoColor=white"
+      alt="Codechef"></a>
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55" alt="Java"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55" height="55" alt="C"/>
-  &nbsp;&nbsp;
-  
-</p>
+<br />
 
----
+<h2 align="center">✦ About Me ✦</h2>
 
-## 📊 GitHub Statistics
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Current Focus</h3>
+      <ul>
+        <li>Learning <b>DSA with Java</b></li>
+        <li>Learning <b>JavaScript</b></li>
+        <li>Developing <b>problem solving skill</b></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💡 My Philosophy</h3>
+      <p>
+        "Write code to be read, learn to expand my mind, but build to solve the problem."
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pardeshikalpesh89-sys&theme=tokyonight"
-    width="100%"
-    alt="GitHub Profile Statistics"
-  />
-</p>
+<br />
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pardeshikalpesh89-sys&theme=tokyonight"
-    width="48%"
-    alt="GitHub Statistics"
-  />
-  &nbsp;
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pardeshikalpesh89-sys&theme=tokyonight&utcOffset=5.5"
-    width="48%"
-    alt="Productive Time"
-  />
-</p>
+<h2 align="center">✦ Tech Arsenal ✦</h2>
 
----
+<div align="center">
 
-## 🔥 Contribution Streak
+**Languages**
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=pardeshikalpesh89-sys&theme=tokyonight&hide_border=true"
-    width="80%"
-    alt="GitHub Contribution Streak"
-  />
-</p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
 
----
+**Tooling**
 
-## 🌐 Connect With Me
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-<p align="center">
-  <a href="https://github.com/pardeshikalpesh89-sys">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+</div>
+
+<br/>
+
+<h2 align="center">✦ 📊 GitHub Analytics ✦</h2>
+
+<div align="center">
+
+![](https://streak-stats.demolab.com/?user=KalpeshPardeshi&theme=merko&hide_border=false)<br/>
+
+</div>
 
 ---
-
-<p align="center">
-  <i>Code • Create • Learn • Repeat 🚀</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
-
